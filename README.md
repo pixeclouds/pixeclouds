@@ -1,7 +1,7 @@
 # Hello, I'm Muhammad Abdulazeez! 👋
 
 ## About Me 🚀
-I'm a dedicated backend engineer passionate about building efficient systems to drive sustainable solutions. Committed to delivering high-quality code, I collaborate effectively in cross-functional teams and embrace continuous learning.
+I'm a dedicated backend engineer who is passionate about building efficient systems to drive sustainable solutions. Iam committed to delivering high-quality code, I collaborate effectively in cross-functional teams and embrace continuous learning.
 
 - 🔭 Currently working on Sproutt, a solution for Small and Medium-scale farmers.
 - 🌱 Exploring AI/ML, LLM, Cloud Engineering.
