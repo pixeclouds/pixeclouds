@@ -25,6 +25,15 @@ I'm a dedicated backend engineer who is passionate about building efficient syst
           <img style="margin: 10px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="[Skill Name 2]" height="30" />
           <img style="margin: 10px" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="[Skill Name 2]" height="30" />
           <img style="margin: 10px" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="[Skill Name 2]" height="30" />
+          <img style="margin: 10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="[Skill Name 2]" height="30" />
+          <img style="margin: 10px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="[Skill Name 2]" height="30" />
+          <img style="margin: 10px" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="[Skill Name 2]" height="30" />
+          <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="[Skill Name 2]" height="30" />
+          <img style="margin: 10px" src=" https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="[Skill Name 2]" height="30" />
+          
+          
+         
+          
           
   <!-- Add more badges as needed -->
 </div>
