@@ -65,9 +65,10 @@ I'm a dedicated backend engineer who is passionate about building efficient syst
 <!-- PROJECTS:END -->
 
 ## Connect with Me 🌐
+Feel free to get in touch with me if you'd like to collaborate or have a chat about software engineering
 
-### [Twitter](https://twitter.com/pixeclouds)
-### [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://twitter.com/pixeclouds)
+- [LinkedIn](https://www.linkedin.com)
 <br />
 
 <!-- Footer -->
