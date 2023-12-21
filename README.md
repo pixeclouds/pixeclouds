@@ -48,8 +48,10 @@ I'm a dedicated backend engineer who is passionate about building efficient syst
 </div>
 
 ## Top Repos 📊
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeclouds&theme=vue-dark&repo=parking-lot)](https://github.com/pixeclouds/parking-lot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeclouds&theme=vue-dark&repo=farmer-support)](https://github.com/pixeclouds/farmer-support)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeclouds&theme=vue-dark&repo=parking-lot)](https://github.com/pixeclouds/parking-lot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixeclouds&theme=vue-dark&repo=grid-battle)](https://github.com/pixeclouds/grid-battle)
+
 <!-- Optional Sections -->
 
 ## Recent Blog Posts 📝
