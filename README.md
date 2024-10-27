@@ -4,7 +4,7 @@
 I'm a dedicated backend engineer who is passionate about building efficient systems to drive sustainable solutions. Iam committed to delivering high-quality code, I collaborate effectively in cross-functional teams and embrace continuous learning.
 
 - 🔭 Currently working on Sproutt, a solution for Small and Medium-scale farmers.
-- 🌱 Exploring AI/ML, LLM, Cloud Engineering.
+- 🌱 Exploring AI/ML, Cloud Engineering.
 - 👯 Open to collaboration on open source projects and Backend roles.
 - 📫 How to reach me: blinkingnode@gmail.com 
 
